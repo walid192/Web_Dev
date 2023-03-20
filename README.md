@@ -1,1 +1,1 @@
-# Web_Dev
+# Welcome to the "web_development_GL2" repository! This repository contains all of the web development workshops completed during our time at INSAT. Each workshop focuses on a different aspect of web development, such as HTML, CSS, JavaScript, and more
